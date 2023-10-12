@@ -16,7 +16,6 @@
 ## 📋 Current Goals
 - [ ] Master Javascript. 
 - [ ] Master C++.
-- [ ] Write at least 5 blog post based in Tech on Medium.
 - [ ] branding myself as a software engineer. 
 
 ## 💼 Technical Skills   
