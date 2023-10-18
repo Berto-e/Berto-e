@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm bert0h (💻💖☕). </h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alberto-%C3%A1lvarez-bert0h/" target="_blank" rel="noreferrer"><img src="https://github.com/Berto-e/Berto-e/assets/65825564/c53e930b-7bf5-4f29-a32c-06cd75ceab8c" alt="my banner"></a>  
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Berto-e/Berto-e/assets/65825564/c53e930b-7bf5-4f29-a32c-06cd75ceab8c" alt="my banner"></a>  
 </p>
 <h2 align="center"> I'm a Computer Science Student 💻 </h2>
 
