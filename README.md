@@ -33,7 +33,7 @@
 
 I'm always open to new opportunities and exciting collaborations. If you share my passion for growth and innovation, let's do amazing things together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alberto-%C3%A1lvarez-bert0h/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bert0h/)
 
 ## &#x1f4c8; GitHub Stats
 
