@@ -15,8 +15,9 @@
 
 
 ## 📋 Current Goals
-- [ ] Master C++.
+- [ ] Master React.
 - [ ] Deepen knowledge in infrastructure and focus on becoming a Platform Engineer.
+- [ ] AWS Solutions Architect Associate
 
 ## 💼 Technical Skills   
 
